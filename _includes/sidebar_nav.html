@@ -1,17 +1,13 @@
 <aside>
    
 
-    
-    
-    
-    
-{% assign mydocs = site.docs | group_by: 'category' %}
-{% for cat in mydocs %}
-<h2>{{ cat.name | capitalize }}</h2>
+   
+{% for item in site.docs %}
+   
+<h2>{{ item.title }}</h2>
     <ul>
-      {% assign items = cat.items | sort: 'order' %}
-      {% for item in items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% for item in items.docs %}
+        <li><a href="{{ item }}">{{ item }}</a></li>
       {% endfor %}
     </ul>
 {% endfor %}
