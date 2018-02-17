@@ -1,7 +1,6 @@
 name: WP-Stateless
 title: WP-Stateless
 description: WP-Stateless is a WordPress plugin that uploads and serves your WordPress media from Google Cloud Storage.
-
 theme: jekyll-theme-cayman
 google_analytics: UA-494098-39
 logo: "/img/wp-stateless-logo.png"
