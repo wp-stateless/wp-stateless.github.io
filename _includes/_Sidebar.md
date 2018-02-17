@@ -1,5 +1,6 @@
 [[[https://storage.googleapis.com/media.usabilitydynamics.com/2014/11/e5113fed-wpinvoice-plugin-icon-300x300.png|alt="WP-Invoice"|height=210px|width=210px]]](https://www.usabilitydynamics.com/product/wp-invoice)
 
+
 ### Intro
 * [[Home]]
 * [Installing](Installing-WP-Invoice)
