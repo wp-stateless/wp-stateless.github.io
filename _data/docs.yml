@@ -1,0 +1,18 @@
+- title: Getting Started
+  docs:
+  - home
+  - quickstart
+  - installation
+  - usage
+  - structure
+  - configuration
+
+- title: Customization
+  docs:
+  - templates
+  - permalinks
+  - pagination
+  - plugins
+  - themes
+  - extras
+
