@@ -1,18 +1,8 @@
-- title: Getting Started
-  docs:
-  - home
-  - quickstart
-  - installation
-  - usage
-  - structure
-  - configuration
-
-- title: Customization
-  docs:
-  - templates
-  - permalinks
-  - pagination
-  - plugins
-  - themes
-  - extras
-
+Intro:
+  - docs/index.md
+  - docs/manual-setup.md
+  - docs/screenshots.md
+  - docs/constants.md
+  - docs/faq.md
+  - docs/contributors-and-developers.md
+  - docs/google-permission-request.md

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="col-12">
+  <div class="content-body frontpage-content">
+
+    <div class="row frontpage-top">
+      <div class="col-3 offset-2 left-side">
+        <img src="{{ site.logo_image }}" alt="{{ site.title }}"/>
+      </div>
+      <div class="col-5 right-side">
+        <h2><span>{{ site.title }}</span> {{ site.description }}</h2>
+      </div>
+    </div>
+
+    <div class="row">
+
+      {% include sidebar.html %}
+      <div class="col-8 offset-1">
+        <h1 class="page-title">{{ page.title }}</h1>
+        {{ content }}
+      </div>
+
+    </div>
+  </div>
+</div>
