@@ -1,7 +1,7 @@
 <aside class="sidebar col-3">
 
   <div class="logo-box">
-    <img src="{{ page.image }}" alt="{{ page.title }}"/>
+    <img src="{{ site.logo_image }}" alt="{{ site.title }}"/>
   </div>
 
   {% for doc in site.data.docs %}
@@ -34,7 +34,7 @@
   {% endfor %}
 
   <div class="product-data">
-    <a href="{{ page.repo_url }}" class="get-repo-button">Go to <span>{{ page.module }}</span> repository</a>
+    <a href="{{ site.repo_url }}" class="get-repo-button">Go to <span>{{ site.title }}</span> repository</a>
   </div>
 
 </aside>
