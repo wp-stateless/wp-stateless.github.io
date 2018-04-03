@@ -1,5 +1,9 @@
 <aside class="sidebar col-3">
 
+  <div class="logo-box">
+    <img src="{{ page.image }}" alt="{{ page.title }}"/>
+  </div>
+
   {% for doc in site.data.docs %}
   <h2>{{ doc[0] }}</h2>
 
@@ -28,5 +32,9 @@
     {% endfor %}
   </ul>
   {% endfor %}
+
+  <div class="product-data">
+    <a href="{{ page.repo_url }}" class="get-repo-button">Go to <span>{{ page.module }}</span> repository</a>
+  </div>
 
 </aside>
