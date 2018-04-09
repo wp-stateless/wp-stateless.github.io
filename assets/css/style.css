@@ -315,13 +315,13 @@ main.main {
 }
 
 .product-item .product-content .product-title {
-  font-size: 16px;
-  font-weight: 600;
-  text-align: left;
+  text-align: center;
 }
 
 .featured-item .product-content .product-title {
-  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: left;
 }
 
 .product-item .product-content .product-description {
