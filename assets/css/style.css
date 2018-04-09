@@ -273,18 +273,16 @@ main.main {
 
 .products-section .products-section-title {
   font-family: 'Roboto', sans-serif;
-  margin-bottom: 0.2em;
-  font-size: 3.85em;
-  font-weight: 100;
+  font-size: 54px;
+  font-weight: 300;
   text-align: center;
 }
 
 .products-section .products-section-description {
-  color: #999;
-  font-weight: 100;
-  text-align: center;
-  margin-bottom: 2em;
-  font-size: 1.43em;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: 300;
+  color: #586069;
 }
 
 .product-item,
