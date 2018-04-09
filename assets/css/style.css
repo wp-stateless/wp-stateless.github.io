@@ -287,7 +287,8 @@ main.main {
   font-size: 1.43em;
 }
 
-.product-item {
+.product-item,
+.featured-item {
   margin-bottom: 2em;
 }
 
@@ -298,8 +299,11 @@ main.main {
   height: inherit;
 }
 
-.product-item .product-content .product-image {
-
+.featured-item .product-content {
+  padding: 16px;
+  border: 1px #e1e4e8 solid;
+  position: relative;
+  height: inherit;
 }
 
 .product-item .product-content .product-image img {
@@ -311,11 +315,24 @@ main.main {
 }
 
 .product-item .product-content .product-title {
+  font-size: 16px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.featured-item .product-content .product-title {
   text-align: center;
 }
 
 .product-item .product-content .product-description {
   text-align: justify;
+}
+
+.featured-item .product-content .product-description {
+  text-align: justify;
+  line-height: 1.25;
+  color: #586069;
+  font-size: 14px;
 }
 
 .product-item .product-content .product-more {
@@ -380,6 +397,7 @@ footer.footer p i {
   color: #24292e;
   font-size: 0.8em;
 }
+
 footer.footer p i.fa-wordpress {
   font-size: 18px;
 }
