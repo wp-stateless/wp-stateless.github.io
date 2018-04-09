@@ -1,7 +1,7 @@
 ---
 title: Description
 sidebar_title: Home
-permalink: /
+permalink: /docs/
 ---
 
 Upload and serve your WordPress media from Google Cloud Storage (GCS) with the WP-Stateless plugin. In as little as two minutes, you will be benefitting from serving your media from Google Cloud’s distributed servers.

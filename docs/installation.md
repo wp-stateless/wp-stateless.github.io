@@ -1,7 +1,7 @@
 ---
 title: Installation
 sidebar_title: Installation
-permalink: /installation/
+permalink: /docs/installation/
 ---
 
 1.  Search, install, and activate the WP-Stateless plugin via your WordPress dashboard.

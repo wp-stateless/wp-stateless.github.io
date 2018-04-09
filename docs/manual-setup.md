@@ -1,7 +1,7 @@
 ---
 title: Manual Setup
 sidebar_title: Manual Setup
-permalink: /manual-setup/
+permalink: /docs/manual-setup/
 ---
 
 The WP-Stateless setup assistant will walk you through the process of creating a Google Cloud project, bucket, service account, and associated billing account. If you prefer to handle these manually, simply follow these instructions.

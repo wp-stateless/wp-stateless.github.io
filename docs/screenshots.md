@@ -1,7 +1,7 @@
 ---
 title: Screenshots
 sidebar_title: Screenshots
-permalink: /screenshots/
+permalink: /docs/screenshots/
 ---
 
 ### Settings Panel: Supports network setting and wp-config constant overrides.

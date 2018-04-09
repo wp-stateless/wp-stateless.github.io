@@ -1,7 +1,7 @@
 ---
 title: FAQ
 sidebar_title: FAQ
-permalink: /faq/
+permalink: /docs/faq/
 ---
 
 ## Installation Instructions
