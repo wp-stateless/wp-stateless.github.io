@@ -90,13 +90,15 @@ main.main {
   opacity: 0.6;
 }
 
-.themes-section {
+.themes-section,
+.features-section {
   background-color: #fafbfc;
   border-top: 1px #e1e4e8 solid;
   padding: 3em 0 2em;
 }
 
-.addons-section {
+.addons-section,
+.improves-section {
   background-color: #FFF;
   border-top: 1px #e1e4e8 solid;
   padding: 3em 0 2em;
