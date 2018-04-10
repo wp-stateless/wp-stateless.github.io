@@ -428,6 +428,7 @@ footer.footer p i.fa-wordpress {
   font-size: 16px !important;
   font-weight: 600 !important;
   font-family: 'Roboto', sans-serif !important;
+  margin-bottom: 8px !important;
 }
 
 .hs-form label .hs-form-required {
@@ -470,7 +471,6 @@ footer.footer p i.fa-wordpress {
 .hs-form ul.hs-error-msgs label {
   font-size: 14px !important;
   font-weight: 300 !important;
-  margin-bottom: 8px !important;
 }
 
 .hs-form div.hs_submit {
