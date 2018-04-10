@@ -411,6 +411,39 @@ footer.footer p i.fa-wordpress {
 .hs-form {
   font-family: 'Roboto', sans-serif;
 }
+.hs-form div.hs_email.hs-form-field {
+  float: left;
+  width: 60%;
+}
+.hs-form div.hs_submit {
+  float: left;
+  width: 40%;
+}
+.hs-form div.hs_submit .actions {
+  margin: 24px 0 0 0 !important;
+  padding: 0 0 0 15px !important;
+}
+.hs-form div.hs_submit .actions {
+  color: #24292e;
+  background-color: #eff3f6;
+  background-image: linear-gradient(-180deg, #fafbfc 0%, #eff3f6 90%);
+  position: relative;
+  display: inline-block;
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  background-repeat: repeat-x;
+  background-position: -1px -1px;
+  background-size: 110% 110%;
+  border: 1px solid rgba(27,31,35,0.2);
+  border-radius: 0.25em;
+  appearance: none;
+}
 
 .hs-form label {
   font-size: 16px !important;
@@ -423,8 +456,7 @@ footer.footer p i.fa-wordpress {
 
 .hs-form .input input.hs-input {
   box-sizing: border-box;
-  float: left;
-  width: 60%;
+  width: 100%;
   min-height: 34px;
   padding: 6px 8px;
   font-size: 14px;
@@ -440,6 +472,13 @@ footer.footer p i.fa-wordpress {
   box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075);
   -moz-box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075);
   -webkit-box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075);
+}
+.hs-form .input input.hs-input:focus {
+  border-color: #2188ff;
+  outline: none;
+  box-shadow: inset 0 1px 2px rgba(27,31,35,0.075), 0 0 0 0.2em rgba(3,102,214,0.3);
+  -moz-box-shadow: inset 0 1px 2px rgba(27,31,35,0.075), 0 0 0 0.2em rgba(3,102,214,0.3);
+  -webkit-box-shadow: inset 0 1px 2px rgba(27,31,35,0.075), 0 0 0 0.2em rgba(3,102,214,0.3);
 }
 
 .hs-form ul.hs-error-msgs {
