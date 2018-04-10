@@ -102,6 +102,17 @@ main.main {
   padding: 3em 0 2em;
 }
 
+.container img {
+  max-width: 100%;
+}
+.container .middle-text {
+  display: table;
+  vertical-align: middle;
+}
+.container .middle-text > div {
+  display: table-cell;
+  vertical-align: middle;
+}
 /* Front page */
 
 /* Sidebar */
