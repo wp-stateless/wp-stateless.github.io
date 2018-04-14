@@ -14,7 +14,7 @@ permalink: /docs/faq/
 
 ## What wp-config constants are supported?
 
-For a complete list of supported wp-config constants, please consult the [GitHub wiki](/constants/).
+For a complete list of supported wp-config constants, please consult the [GitHub wiki](https://wp-stateless.github.io/docs/constants/).
 
 ## How do I manually generate the Service Account JSON?
 

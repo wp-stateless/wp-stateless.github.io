@@ -6,7 +6,7 @@ permalink: /docs/google-permission-request/
 
 To simplify the initial setup for WP-Stateless and your Google Cloud configuration, you are presented with the setup assistant upon the installation of WP-Stateless. This setup assistant automates the creation of your Google Cloud Project, Google Cloud Storage Bucket, and Google Cloud Billing Account. In order to do these tasks on your behalf, WP-Stateless will prompt you for access to your Google account.
 
-If you prefer to not provide access to your Google account, [the manual setup process](https://github.com/wpCloud/wp-stateless/wiki/Manual-Setup) is available to you.
+If you prefer to not provide access to your Google account, [the manual setup process](https://wp-stateless.github.io/docs/manual-setup/) is available to you.
 
 # Permissions
 
