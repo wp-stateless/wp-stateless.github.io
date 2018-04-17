@@ -71,6 +71,7 @@ main.main {
 
 .frontpage-top .left-side img {
   max-width: 100%;
+  margin-bottom: 20px;
 }
 
 .frontpage-top .right-side {
@@ -194,6 +195,10 @@ main.main {
 /* Sidebar */
 
 /* Container */
+.container-lg {
+  max-width: 1012px;
+}
+
 .content-body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
@@ -427,6 +432,10 @@ footer.footer p i.fa-wordpress {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 14px;
   color: #586069;
+}
+
+.hbspt-form {
+  min-height: 60px;
 }
 
 .hs-form {
