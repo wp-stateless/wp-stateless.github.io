@@ -25,15 +25,17 @@ With a billing account in place, visit the [Google Cloud Console](https://consol
 
 ## 3. Create Google Cloud Bucket
 
-From within your project, visit *Storage > [Browser](https://console.cloud.google.com/storage/browser)* and click *[Create Bucket](https://console.cloud.google.com/storage/create-bucket)*.
+1. From within your project, visit *Storage > [Browser](https://console.cloud.google.com/storage/browser)* and click *[Create Bucket](https://console.cloud.google.com/storage/create-bucket)*.
+2. Go to the Permissions tab for the bucket and enable Object-level permissions.
+3. Make the bucket data available publicly by following these steps: *[Make Data Public](https://cloud.google.com/storage/docs/access-control/making-data-public)*.
 
 ## 4. Create Google Cloud Service Account
 
 1. From within your project,  *IAM & Admin > [Service accounts](https://console.cloud.google.com/iam-admin/serviceaccounts/project)*.
 2. Click *Create Service Account* and name it *wp-stateless*.
-3. Set the role to *Storage > Storage Admin*.
-4. Check *Furnish a new private key* and select *JSON* as the key type.
-5. Open the JSON file and copy the contents into the *Service Account JSON* textarea within the WP-Stateless settings panel.
+3. Check *Furnish a new private key* and select *JSON* as the key type.
+4. Return to *Storage > [Browser](https://console.cloud.google.com/storage/browser)*, and Go to the Permissions tab for the bucket
+5. Click on "Add members" and type "wp-stateless" in Input field. GCP will autocomplete this name with full IAM email. Select this email. In dropdown "Select a role", select "Storage Admin". Click on "Save".
 
 ## 5. Configure WP-Stateless Settings
 
