@@ -40,6 +40,6 @@ New to Google Cloud? Google is offering you a [$300 credit](https://cloud.google
 
 We welcome community involvement via the [GitHub repository](https://github.com/wpCloud/wp-stateless).
 
-###Custom Development
+### Custom Development
 
 Looking for a unique feature for your next project? [Hire us!](https://www.usabilitydynamics.com/contact)
