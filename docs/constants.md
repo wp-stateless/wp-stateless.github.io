@@ -6,7 +6,7 @@ permalink: /docs/constants/
 
 Constants are set via the [wp-config.php file](https://codex.wordpress.org/Editing_wp-config.php) and will override any settings configured at the network or site level.
 
-# Available Constants
+# Settings Constants
 
 ## WP_STATELESS_MEDIA_MODE
 accepted values: `disabled`, `backup`, `cdn`, `stateless`  
