@@ -38,8 +38,8 @@ New to Google Cloud? Google is offering you a [$300 credit](https://cloud.google
 
 ### Support, Feedback, & Contribute
 
-We welcome community involvement via the [GitHub repository](https://github.com/wpCloud/wp-stateless).
+We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless).
 
 ### Custom Development
 
-Looking for a unique feature for your next project? [Hire us!](https://www.usabilitydynamics.com/contact)
+Looking for a unique feature for your next project? [Hire us!](https://udx.io/)
