@@ -109,6 +109,42 @@ Enables [Chrome Logger](https://chrome.google.com/webstore/detail/chrome-logger/
 accepted values (_bool_): `true`, `false`  
 default value: `none`
 
+## WP_STATELESS_MEDIA_UPLOAD_CHUNK_SIZE
+
+Since `3.0.0`
+
+Enables uploading files to GCS using chunks of the specified size in bytes. Useful when server memory is limited and `Allocated memory exhausted` error occurs.
+
+accepted values (_int_): `10485760`  
+default value: `none`
+
+## WP_STATELESS_SYNC_MAX_BATCH_SIZE
+
+Since `3.1.0`
+
+Sets the maximum size of a background sync batch of items to be saved in a single row in the database.
+
+accepted values (_int_): `10`  
+default value: `50`
+
+## WP_STATELESS_SYNC_LOG
+
+Since `3.1.0`
+
+Sets a path to a log file where to output loggin information during the background sync. If not defined, a default `error_log` handler will be used.
+
+accepted values (_string_): `/var/www/my-log-file.log`  
+default value: `none`
+
+## WP_STATELESS_SYNC_HEALTHCHECK_INTERVAL
+
+Since `3.1.0`
+
+Defines an interval in minutes for a cron task that periodically checks the health of a particular background sync process.
+
+accepted values (_int_): `1`  
+default value: `5`
+
 # Compatibility Constants
 
 ## WP_STATELESS_DYNAMIC_IMAGE_SUPPORT
