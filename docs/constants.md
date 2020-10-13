@@ -142,8 +142,8 @@ Since `3.1.0`
 
 Defines an interval in minutes for a cron task that periodically checks the health of a particular background sync process.
 
-accepted values (_int_): `1`  
-default value: `5`
+accepted values (_int_): `5`  
+default value: `1`
 
 # Compatibility Constants
 
