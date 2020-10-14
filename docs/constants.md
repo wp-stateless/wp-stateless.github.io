@@ -131,7 +131,7 @@ default value: `50`
 
 Since `3.1.0`
 
-Sets a path to a log file where to output loggin information during the background sync. If not defined, a default `error_log` handler will be used.
+Sets a path to a log file where to output logging information during the background sync. If not defined, a default `error_log` handler will be used.
 
 accepted values (_string_): `/var/www/my-log-file.log`  
 default value: `none`
