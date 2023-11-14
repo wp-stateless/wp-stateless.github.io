@@ -1,0 +1,27 @@
+title: WP-Stateless
+description: A WordPress plugin that uploads and serves your WordPress media from Google Cloud Storage.
+logo_image: https://ps.w.org/wp-stateless/assets/icon.svg
+github_url: https://github.com/wpCloud/wp-stateless
+wp_link: https://wordpress.org/plugins/wp-stateless/
+google_tag: GTM-MQDQZZR
+
+exclude:
+  - node_modules
+  - package.json
+  - .idea
+  - workspace.xml
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+  load_paths:
+    - node_modules
+    - node_modules/**/*/node_modules
+
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      layout: docs
+
+branch: master
