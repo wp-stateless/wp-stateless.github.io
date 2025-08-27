@@ -1,0 +1,321 @@
+- slug: buddyboss
+  name: BuddyBoss Platform
+  wp: https://wordpress.org/plugins/wp-stateless-buddyboss-platform-addon/
+  icon: https://www.buddyboss.com/wp-content/uploads/2022/04/bb-logo-1.png
+  repo: udx/wp-stateless-buddyboss-addon
+  button: > 
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151481399845"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLIz%2BcFUMcIBKQ7Xqj0pOF0COKC9I0GezkxwgHqPgiPgyfhisc6veCbNsRloVLAajjD9D%2ByVhIPRFdsFfxJbmC96vdcpZbFUIqn%2F2qS7eXcpXHENalnSIMHrRy3vZ25OujO7MQ8WgbQMNJlTJJ9N0%2FyC6UbEjKMWdWjvjXnAPRh5giepyw2JtqMqgupq85f5rhzgYJgXJKOAzaOwja%2Bedw%3D%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151481399845   " data-hubspot-cta-id="151481399845"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+  
+- slug: buddypress
+  name: BuddyPress
+  repo: udx/wp-stateless-buddypress-addon
+  icon: https://ps.w.org/buddypress/assets/icon.svg
+  wp: https://wordpress.org/plugin/wp-stateless-buddypress-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478250924"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLI2cUkR5ebjigs7wuHNATFOMuRyt4wtDq1MFrTDwohcUMrpMpmyaeS%2Fgmr4pHFgv9y8YuVH3Q19Iz8MMyQibhbWZazgbHL%2F%2FLL%2BZlo%2FwruUZFU4IMOUpb9H0STImASBydcuuvw2pk58aBLxDZk0Dz%2B7BMHFRKRqXCL8OuO2gs269W1EHpztUS1zevOq6MLT3VINjElaKSvZF%2BoA%2FUOvj1k%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478250924   " data-hubspot-cta-id="151478250924"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      >
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: divi
+  name: Divi
+  is_theme: true
+  icon: https://www.elegantthemes.com/images/favicon/favicon-divi-128.png
+  repo: udx/wp-stateless-divi-theme-addon
+  wp: https://wordpress.org/plugins/wp-stateless-divi-theme-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478250935"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLKBdXT3iKKssnyU5oSlJCOfudt7i6nV%2F5ojUf63FZt1MjnlQ%2BEP2JTU9DfhHfCCMUS9eZkfBezgAUKkinw0pOw0yKUWSYGw89SIF9OyVci07g94GTyYx0j17tt3LC7jZ34Nhe4GfQQHXvkad%2FNNTRoumwcNoV5csmLHPEnEwq7XWsYPSN73GTzxEwySOMWBk%2FTt%2BROYZDCM3Ks%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478250935   " data-hubspot-cta-id="151478250935"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: edd
+  name: Easy Digital Downloads
+  icon: https://ps.w.org/easy-digital-downloads/assets/icon.svg
+  repo: udx/wp-stateless-easy-digital-downloads-addon
+  wp: https://wordpress.org/plugins/wp-stateless-easy-digital-downloads-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151481399833"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLJxUwI9ZzxfdKn5iyDFH6XD02HHieStulDE0F5GTu%2F3mPVaJLeowYFknqMNIeGu7EmDCOou%2F2BxUJt8yhXxSFcAw2riaUdtnIbxbhXbJfGbBqyrJAFtf7fDR%2FzeI3wG5p%2BQPcTQrtcwPKwjf%2BWEb1VIuWosOuOhSREpDcjqKBfhJtfSKfyqIJL9t70yYRrjH%2FJElufnsgSemgAYtPrrN%2FixgtK3s9yGIE0e31A%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151481399833   " data-hubspot-cta-id="151481399833"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: elementor
+  name: Elementor Website Builder
+  wp: https://wordpress.org/plugins/wp-stateless-elementor-website-builder-addon/
+  icon: https://ps.w.org/elementor/assets/icon-128x128.gif
+  repo: udx/wp-stateless-elementor-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151481399819"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLKR8B2Z9422V%2Fh9SGpptZeq1UWUETejTC8i1C7YoBj8TRWSG2Yij36fQHaj37NIgIU0OgWeZ9SAaTb9lL%2BlPaEKwWJ1WcQNWv%2FLFWh1Y8LTEIUGRvPzShNKyv0yIC5Z3Hu6YWGYp46iXXI6nLLBfbt2fHytn3mHX7Ic3%2ByuAF3Cz2rmMusOMD3XSJGTAYobOOXuyHJzeHzztZAimflHRg%3D%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151481399819   " data-hubspot-cta-id="151481399819"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: ewww
+  name: EWWW Image Optimizer
+  icon: https://ps.w.org/ewww-image-optimizer/assets/icon-128x128.png
+  repo: udx/wp-stateless-ewww-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151481399826"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLLOw%2BYv7MDUl3drt1zx%2BMgoG5XqDMHoLh4PavWwAcQHvdu0NLyubi5hecf5JTGZkxdgVtN9BddwU8l0FO8uekaC4c3u9bE4WIvnjszuPHAM%2F2eqmcDb%2BvNQHvFWO0fZ21oCA0v4QbYurkh1u4tj0DsgiaFmW66S75F6PQJHfThFHNvatSQVf6FvIaGCDjnHAzlQOb7%2BYLFJ0Zw%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151481399826   " data-hubspot-cta-id="151481399826"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: gravity-forms
+  name: Gravity Forms
+  icon: https://cdn2.hubspot.net/hub/4148022/hubfs/Artboard%20Copy%2011.png
+  repo: udx/wp-stateless-gravity-forms-addon
+  wp: https://wordpress.org/plugins/wp-stateless-gravity-forms-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151481399808"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLJ2A%2FS%2FrBjbH%2B2zEjfR3T%2B1mWtJnXEtorbr5Olt8GrxTFwKcTV490FD%2F%2FywcQ4Yp944qIl%2FI1BcwoIIsFaYC1Z5v8FygDdJrSd%2FeqTr3jQ2I0tVfJaErezy9f%2BRdTPLQClqa28wG%2FNPQu%2F%2ByD08wtdQhaZMTW7s%2FCwLYFl9RLFqXcc4gW2vCI20%2Bx9NxFAVkMeqRN18USGE7M5iwl8AoOwI1tA%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151481399808   " data-hubspot-cta-id="151481399808"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: gravity-forms-signature
+  name: Gravity Forms Signature
+  icon: https://cdn2.hubspot.net/hub/4148022/hubfs/Artboard%20Copy%2011.png
+  repo: udx/wp-stateless-gravity-forms-signature-addon
+  wp: https://wordpress.org/plugins/wp-stateless-gravity-forms-signature-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151481399724"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLLr66o8tFz1owH%2F8niAXobMUrxwU7SenenLgUzTIQiYLyvaqx%2FBVmvE60MJI3oMg%2BKtMZzfMsvk6Uedvxv1E2mUg7VwJtc9DxdcCgS8uJh58x6fiXwdUPNDkeKlLWeoNtvEj7zhNdDrsJf6kEo6t7vIFpF7aT2%2F8N3RGUCmwUBDRMDt6t7Fdko0LUhAnePm4PAby7S3kmVUZ0POP0bwh%2BjJXTL6eRK4VsTdvaDZ&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151481399724   " data-hubspot-cta-id="151481399724"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: imagify
+  name: Imagify
+  icon: https://ps.w.org/imagify/assets/icon.svg
+  repo: udx/wp-stateless-imagify-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151480507779"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLJHxXn3yRvWnDIe41l%2BG01lFdvK5sqNilvy%2B0O7pKpNna5Bud9RqnOPoRNBIPA%2BiItPGqzRl9wGp8BtnDUMqbg%2B3%2BmcGAEDq9%2BSkWwgjROymvVwPYN70dMdgQzsNFKoW8HZp4AF67GaSrqcw%2FluAjxwUbA9qI7EvHBjoVOhKxCDdCHYlwJHLmdB%2BikiFVMDHfGt8xih579vhdbRzoc%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151480507779   " data-hubspot-cta-id="151480507779"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: learndash
+  name: WordPress LMS Plugin by LearnDash
+  icon: https://www.learndash.com/wp-content/uploads/learndash-favicon-blue.svg
+  repo: udx/wp-stateless-learndash-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151480507771"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLK54%2F8IsZNdheAmF6U9b69TCO6DzUnlT8H6akX47HzYyga%2Bl4AVSAL76Q6%2FMQlQTafmjgRQJRGbmP1QYVMt2R1Is0rIywR8TpVu%2BnXR%2BJ0WeHAfXgE8iaqP7DdJ8Anq1oT4Jm8E7heOgZRaicQWYDGInvNKz%2FfxNS6pmQgFx32FAVVrwVKB%2B%2F%2BR3cvic%2FwLPcnwZ6mQdIxspB8ccJLj6g%3D%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151480507771   " data-hubspot-cta-id="151480507771"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: lite-speed-cache
+  name: LiteSpeed Cache
+  icon: https://ps.w.org/litespeed-cache/assets/icon-128x128.png
+  repo: udx/wp-stateless-litespeed-cache-addon
+  wp: https://wordpress.org/plugins/wp-stateless-litespeed-cache-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151480507763"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLIOyMDtSd38hsGmk9MGSIcma3Mt3SvEOXSn7VmOwTtcd2Ikbo11%2F2fPIO05OuJRZtpnUeX5rP5KA9YCjkF%2FNJUefTigAlFzKoALTcQXcQBCI6m3ADNvCnK7ID2cwJ0blcm4zy77at%2B0tmBI00NECnjy2a3a58vONdRf5J5ZyVthXx84065zZYVCU%2Bo2PR8dadlZpvOsypVWSfGMIYIXpA2KKN6Ryg%3D%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151480507763   " data-hubspot-cta-id="151480507763"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: polylang
+  name: PolyLang Pro
+  icon: https://polylang.pro/wp-content/uploads/2016/03/Polylang-Logo-parrot-alone-1-2.png
+  repo: udx/wp-stateless-polylang-pro-addon
+  wp: https://wordpress.org/plugins/wp-stateless-polylang-pro-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478250876"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLLrQfcgZXQosXsFOVmv%2FLQ78M8kuOvjhjSYB0Ocs4WqMyTLQzlOsxoPCVV%2FeQxarZ4cqijx8%2BpKIu23%2FWaxhzMpdiiuINkv7gnncsoA9fc9r3egO1a5jZoSjkY3yASuXExlY6NmOw5zMC6%2BnmFq%2FmMbZk98lhu3pscIFBjGeaMj5MtVvRzL5GvZWfEM9LO8UbtmNaCQKQan1iIYXBPHvc1wLg%3D%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478250876   " data-hubspot-cta-id="151478250876"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+    
+- slug: shortpixel
+  name: ShortPixel Image Optimizer
+  icon: https://ps.w.org/shortpixel-image-optimiser/assets/icon-128x128.png
+  repo: udx/wp-stateless-shortpixel-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151480507712"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLJsGgg4Zwo1DyR8DrFVaovb6Nhu0t6QqX%2BYuGHZ1wYegTub3EuempVRUTfXaGRU86NSK38o9r0TcHkjXrtNTrfxvM6z075e1P1acyDXvZwKIuyueUTKL368%2Ffbt7XY3uYbxSo7CQNFEhgITv9Anszh5lQrR8JIb5sBXXuchCmXge9x4FqBPW4%2BCDBge%2BhbjvadeFazgJXF0I%2F7PamNDZSs%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151480507712   " data-hubspot-cta-id="151480507712"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: simple-local-avatars
+  name: Simple Local Avatars
+  icon: https://ps.w.org/simple-local-avatars/assets/icon.svg
+  repo: udx/wp-stateless-simple-local-avatars-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151480507697"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLKxjh6nBoR9tYT0kVNH5o4nB39QnebHSNUYdIzA7z8d%2FJkEaKXghJ8r43vXDu7J181CQh%2BfzX3pJX6KiLy9va779dWO8xeLyA%2BYl6hCZefx0cIpPLBSpB7Irc%2BNA0iNoq4weH9gGlLKmrpYRDWKrdYUc%2FKeTHmGMFnFR2GQXbeK%2FWqKy6JXhO8sVpwX87ICpDji3WfMAx5YHnUZOSNePXQ3hnptstUG6ect&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151480507697   " data-hubspot-cta-id="151480507697"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: siteorigin-css
+  name: SiteOrigin CSS
+  icon: https://ps.w.org/so-css/assets/icon.svg
+  repo: udx/wp-stateless-siteorigin-css-addon
+  wp: https://wordpress.org/plugins/wp-stateless-siteorigin-css-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151480507684"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLIgMPe%2F5IfVjvziOpbqE0srCEL5Vb4MgtPGYa9vW%2FSxwkHucvzZrYtNFt8vmwpO6nji960Z2rgiyW4O5cUPnrHpfzZmn3%2F73WULd2jqfsDCChKyD0ao%2BOCXCaixUwD4ua31Dnz31Qe7UUz%2BiNV3SZkGjnzc2i0ruj51SxnTHoyDEqr8LMIzYM8Yai1M93BHZtrv%2FaGQoN0xRHZsKSs5XohfHDCf&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151480507684   " data-hubspot-cta-id="151480507684"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: siteorigin-widgets-bundle
+  name: SiteOrigin Widgets Bundle
+  icon: https://ps.w.org/so-widgets-bundle/assets/icon.svg
+  repo: udx/wp-stateless-siteorigin-widgets-bundle-addon
+  wp: https://wordpress.org/plugins/wp-stateless-siteorigin-widgets-bundle-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151480507657"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLIi5FZzpLTr9peneUUWIhlDbPwTOZ%2Bk7wYscUwbWRVRbuJyM0gb6ALG44iuTwiUnytwPlmDavUsGCpTQLd7wOvRwX%2F2RB0VME62s%2F4Ze1giVM3bA0qzP2CW%2BYaa0v6SnO1DQuSj%2Fwa6ZzIOjSvrBpRLsbq03NrHg1U9ebof2idvtVfNzg076LuBhGqryYLnHPq4%2Beczjp7P8K3Ukff2jqUXCJNnUClEbihnXqbOh50%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151480507657   " data-hubspot-cta-id="151480507657"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: smush
+  name: Smush Image Compression and Optimization
+  icon: https://ps.w.org/wp-smushit/assets/icon-128x128.png
+  repo: udx/wp-stateless-wp-smushit-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478251069"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLI0StMTPbGyAO2uhI88GFqfBYkMYet2mNhQqC1muASOo84GrPNrVJmFaSJnOWczHT9hTM3Zn3iJU6vaS%2Bt1iaVSWZEKVb9mOzEJMHC%2Frvw8hqX3mQLsQUEjXUK3aD7g0lOnYz%2BSCymB1xr%2B6au%2FeY6DdVhUMdeuzIDPwM22w3y60PSFaCWAX%2BcSv7r%2BtMXKgHWPYzDCLJhrlnQBDQ%2BAQXI%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478251069   " data-hubspot-cta-id="151478251069"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: the-events-calendar
+  name: The Events Calendar
+  icon: https://ps.w.org/the-events-calendar/assets/icon-128x128.gif
+  repo: udx/wp-stateless-the-events-calendar-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478251055"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLI2222cC9JmB%2FpDtEn9ag7yLu%2ByuumSGanLcnm9927VTuvVYYSj52%2FVBpEMfcXqgqTvmpBIcwV8OEbo28KSiD1sMb2PGkAdRrcohnmdkYqK7jG2pBzWXh35dT8biguS8YDAZ%2FuK8EcYqFHjRoFgoNhvCO9zsKD0rqeHrNbD2caKfQocW1jNCYYpSSXXKqgNcckyX%2Ff1zDzGBX5EbuW%2Bxzng3xrwJNqQAoU%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478251055   " data-hubspot-cta-id="151478251055"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: woocommerce
+  name: WooCommerce
+  icon: https://ps.w.org/woocommerce/assets/icon-128x128.gif
+  repo: udx/wp-stateless-woocommerce-addon
+  wp: https://wordpress.org/plugins/wp-stateless-woocommerce-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478251047"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLKJr1PcJ%2BBZGWmWGTx%2Bc7Sh4FacNlnvMTTQNjX%2BUmtx5f1v6gkfcoZGfadciwzLMdGM0sFedlfakugWH%2FdNwCHb4nNp4YBkN0R4jfQIC8RM6ksptsyoPhr2Ws0%2BMkaYVtUkujGU99Pu8r1LBsLY1UJ5vWPU5k5pOEoNGDrw8Y%2FsUwi7oiF5ws2lHdL53NqfZZ7wrybTx7J5ZBpn7ZYiSLWE&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478251047   " data-hubspot-cta-id="151478251047"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: woo-extra-product-options
+  name: WooCommerce Extra Product Options
+  icon: https://ps.w.org/woocommerce/assets/icon-128x128.gif
+  repo: udx/wp-stateless-woo-extra-product-options-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478251017"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLJEVwizswpIBW3e5OIb%2Flajwq%2B99RPejYpe6VZwy3gY92zmCXk416yU%2B6PJrXgc0mLy9dMN7t5YqlTWdZS5T93C7RCEhU0qhQsn%2BkW4%2BPDsHopYZCfSeT8zbOfrpPWZlIrofFVpVGvnTVrE7AEkDzND77Pn0SK%2BfY%2FW3UHCrom9a9IrWWaroKAf6g5Cxaklr%2FLXUwQVF80jr7rOKPjZV5Uff08o%2BlQm%2BaBrWgklg8Y%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478251017   " data-hubspot-cta-id="151478251017"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: wpbakery
+  name: WPBakery Page Builder
+  icon: https://wpbakery.com/wp-content/uploads/2023/08/cropped-favico-192x192.png
+  repo: udx/wp-stateless-wpbakery-page-builder-addon
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151478251031"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLIZ6hBsEAoUtfXqA2yvakONzdP8ytjhvNEbMGbZeCb5wF0iHDCT1JxYMZU%2BOGJIX%2FFdMoO8fUZ8V81iRkC2X387A9MsGpwU226IEMCGYo7Iqi3tFNtFkSIECdCUHXyURtdiZmMhHAwtZF8WA3NKspjQjm2WBEslHmFk334t37%2Fn%2BKcWRRA6%2B4zC6f2GZUKUaEW7kYQvUwxJrpkbmCQg8A4W6gQbNhv4GvNelA%3D%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151478251031   " data-hubspot-cta-id="151478251031"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      > 
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>
+
+- slug: wpforms
+  name: WPForms
+  icon: https://ps.w.org/wpforms-lite/assets/icon.svg
+  repo: udx/wp-stateless-wpforms-addon
+  wp: https://wordpress.org/plugins/wp-stateless-wpforms-addon/
+  button: >
+    <div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="151481399840"> 
+      <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLLqQZFlYLLuF7Y78KBpJ1%2B6TIBQGoc%2Fe%2F3VLXUtiDnhr3GTMIQerhmQ66naOKU%2F571VkjlA2JGOmx8M7lAZpzb7Wj1%2F9rFLS3lzCeDCgfZoJ635StZiRm6L0ougYdIVx4Bcl12Uzqxu4vB0qcBz4IMppvrjSf95liBVtWpAOpX6Ns95M9jaRBX9o8jcrCm672J6Q7qxLxrxR2FSNGU1bEjsd9A%3D&amp;portalId=20504491" 
+        class="hs-inline-web-interactive-151481399840   " data-hubspot-cta-id="151481399840"
+        target="_blank" rel="noopener" crossorigin="anonymous" onerror="this.style.display='none'"
+      >
+        <span class="addon-download">Download</span>
+      </a> 
+    </div>  

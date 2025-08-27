@@ -1,0 +1,32 @@
+<aside class="sidebar col-md-3 addon-sidebar">
+  <ul>
+    {% if page.button %}
+      <li class="mb-4">
+        {{ page.button }}
+      </li>
+    {% endif %} 
+
+    {% if page.wp %}
+      <li class="pl-2">
+        <a href="{{ page.wp }}" class="addon-sidebat-link" rel="noreferrer nofollow" target="_blank" >
+          <i class="fab fa-wordpress-simple"></i> WordPress
+        </a>
+      </li>
+    {% endif %} 
+
+    {% if page.repo %}
+      <li class="pl-2">
+        <a href="https://github.com/{{ page.repo }}/" class="addon-sidebat-link" target="_blank" >
+          <i class="fab fa-github"></i> GitHub
+        </a>
+      </li>
+    {% endif %} 
+
+    <hr />
+
+    <li class="pl-2">
+      <a href="/addons/" class="addon-sidebat-link"><i class="fa-sharp fa-light fa-chevrons-left"></i> All Addons</a>
+    </li>
+  </ul>
+
+</aside>

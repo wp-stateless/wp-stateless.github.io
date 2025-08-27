@@ -5,11 +5,17 @@ github_url: https://github.com/wpCloud/wp-stateless
 wp_link: https://wordpress.org/plugins/wp-stateless/
 google_tag: GTM-MQDQZZR
 
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
 exclude:
   - node_modules
   - package.json
   - .idea
   - workspace.xml
+  - bin
 
 sass:
   style: :compressed

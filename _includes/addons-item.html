@@ -1,0 +1,61 @@
+<div class="col-lg-6 d-flex flex-column addon-item">
+  <div class="card mb-4 align-items-center">
+
+    <div class="row w-100 card-head">
+      <div class="col-md-3 icon-wrap">
+        <a 
+          href="/addons/{{ addon.slug }}/" 
+          class="d-flex mb-4 addon-img justify-content-center" 
+          alt="WP-Stateless {{ addon.name }} Addon"
+        >
+          <img src="{{ addon.icon | default: 'https://ps.w.org/wp-stateless/assets/icon.svg' }}" alt="WP-Stateless {{ addon.name }} Addon">
+        </a>
+      </div>
+
+      <div class="col-md-9">
+        <h5 class="mb-2"><a href="/addons/{{ addon.slug }}/" alt="WP-Stateless {{ addon.name }} Addon">{{ addon.name }} Addon</a></h5>
+
+        <div class="addon-description">
+          {% if addon.is_theme %}
+            Provides compatibility between the {{ addon.name }} theme and the WP-Stateless plugin.
+          {% else %}
+            Provides compatibility between the {{ addon.name }} and the WP-Stateless plugins.
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row w-100 card-buttons justify-content-start">
+      <div class="mt-4 d-flex justify-content-center hubspot-button">
+        {% if addon.wp %}
+          <a href="{{ addon.wp }}" class="addon-button" rel="noreferrer nofollow" target="_blank">
+            <span class="addon-download">Download</span>
+          </a>
+        {% else %}
+          {{ addon.button }}
+        {% endif %} 
+      </div>
+
+      <div class="d-flex justify-content-start mt-4 additional-buttons">
+        <a href="/addons/{{ addon.slug }}/" class="ml-4 mr-2 py-2 d-flex align-items-center text-center addon-button">
+          <i class="fa-sharp fa-light fa-book mr-1"></i> Docs
+        </a>
+
+        {% if addon.wp %}
+          <a href="{{ addon.wp }}" class="mx-2 py-2 d-flex align-items-center text-center addon-button" rel="noreferrer nofollow" target="_blank">
+            <i class="fab fa-wordpress-simple mr-1"></i> WordPress
+          </a>
+        {% endif %} 
+
+        {% if addon.repo %}
+          <a href="https://github.com/{{ addon.repo }}/" class="mx-2 py-2 d-flex align-items-center text-center addon-button" target="_blank">
+            <i class="fab fa-github mr-1"></i> GitHub
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,8 @@
+Setup:
+  - setup/index.md
+  - setup/billing-account.md
+  - setup/project.md
+  - setup/bucket.md
+  - setup/service-account.md
+  - setup/wp-stateless.md
+  

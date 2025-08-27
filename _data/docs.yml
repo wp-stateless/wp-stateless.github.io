@@ -1,9 +1,14 @@
 Intro:
   - docs/index.md
   - docs/installation.md
+  - url: /setup/
+    sidebar_title: Setup
   - docs/manual-setup.md
+  - url: /addons/
+    sidebar_title: Addons
   - docs/screenshots.md
   - docs/constants.md
   - docs/faq.md
+  - docs/changes.md
   - docs/contributors-and-developers.md
   - docs/google-permission-request.md

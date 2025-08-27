@@ -2,7 +2,7 @@
   "name": "WP-Stateless",
   "version": "1.0.0",
   "description": "A WordPress plugin that uploads and serves your WordPress media from Google Cloud Storage.",
-  "author": "UDX <info@udx.io> (https://wp-stateless.github.io/)",
+  "author": "UDX <info@udx.io> (https://stateless.udx.io/)",
   "license": "ISC",
   "repository": "https://github.com/udx/wp-stateless",
   "scripts": {

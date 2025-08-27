@@ -322,13 +322,16 @@ main.main {
 .product-item .product-content .product-image img {
   max-width: 100%;
   height: auto;
-  width: 150px;
+  width: 80px;
   display: block;
   margin: 0 auto 1.5em;
+  max-height: 80px;
 }
 
 .product-item .product-content .product-title {
   text-align: center;
+  height: 48px;
+  margin-bottom: 30px;
 }
 
 .featured-item .product-content .product-title {
@@ -407,20 +410,16 @@ footer.footer p a {
 
 footer.footer p i {
   color: #24292e;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
-footer.footer p i.fa-wordpress {
+footer.footer p i.fa-wordpress-simple {
   font-size: 18px;
 }
 
 /* Footer */
 
 /* Form */
-.form-box {
-
-}
-
 .form-box .form-title {
   font-family: 'Roboto', sans-serif !important;
   font-size: 16px !important;
@@ -429,119 +428,173 @@ footer.footer p i.fa-wordpress {
 }
 
 .form-box .form-description {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 14px;
   color: #586069;
 }
 
 .hbspt-form {
-  min-height: 60px;
-}
-
-.hs-form {
   position: relative;
-  font-family: 'Roboto', sans-serif !important;
 }
 
-.hs-form .hs_error_rollup {
-  position: absolute;
-  top: -20px;
-  left: 25%;
+.hbspt-form .hs-email {
+  position: relative;
 }
 
-.hs-form div.hs_email.hs-form-field {
-  float: left;
-  width: 60%;
+.hbspt-form .hs-email .hs-form-required {
+  display: inline-block;
+  color: #f05323;
+  font-weight: bold;
+  margin-left: 3px;
 }
 
-.hs-form label {
-  display: none !important;
+.hbspt-form .input {
+  margin-bottom: 20px;
 }
 
-.hs-form label .hs-form-required {
-  display: none !important;
-}
-
-.hs-form .input input.hs-input {
-  box-sizing: border-box;
+.hbspt-form .hs-email .hs-input {
   width: 100%;
-  min-height: 34px;
-  padding: 6px 8px;
-  font-size: 14px;
-  line-height: 20px;
-  color: #24292e;
-  vertical-align: middle;
-  background-color: #fff;
-  border: 1px solid #d1d5da;
-  border-radius: 3px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  outline: none;
-  box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075);
-  -moz-box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075);
-  -webkit-box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  height: 40px;
+  line-height: 27px;
+  padding: 0 15px;
+  background-color: #f5f8fa;
+  color: #33475b;
+  font-size: 16px;
+  border: 1px solid #cbd6e2;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
-.hs-form .input input.hs-input:focus {
-  border-color: #2188ff;
+.hbspt-form .hs-email .hs-input:focus {
   outline: none;
-  box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075), 0 0 0 0.2em rgba(3, 102, 214, 0.3);
-  -moz-box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075), 0 0 0 0.2em rgba(3, 102, 214, 0.3);
-  -webkit-box-shadow: inset 0 1px 2px rgba(27, 31, 35, 0.075), 0 0 0 0.2em rgba(3, 102, 214, 0.3);
+  border: 2px solid #cbd6e2;
 }
 
-.hs-form ul.hs-error-msgs {
+.hbspt-form .hs-email .hs-input.error {
+  border-color: #f05323;
+}
+
+.hbspt-form .hs-email .hs-error-msgs {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  font-size: 13px;
+  padding: 0;
+  list-style: none;
+  color: #f05323;
+  display: none;
+}
+
+.hbspt-form .hs-email .hs-error-msgs:last-child {
+  display: block;
+}
+
+.hbspt-form .legal-consent-container .inputs-list {
+  padding: 0;
+  list-style: none;
+}
+
+.hbspt-form .legal-consent-container .hs-form-booleancheckbox-display {
+  display: flex;
+  align-items: flex-start;
+  cursor: pointer;
+}
+  
+.hbspt-form .legal-consent-container .hs-form-booleancheckbox-display .hs-input {
   margin-top: 5px;
 }
 
-.hs-form ul.hs-error-msgs label {
-  font-size: 14px !important;
-  font-weight: 300 !important;
-  display: inline-block !important;
+.hbspt-form .legal-consent-container label.hs-form-booleancheckbox-display span {
+  margin-left: 10px;
 }
 
-.hs-form div.hs_submit {
-  float: left;
-  width: 30%;
+.hbspt-form .legal-consent-container .hs-form-booleancheckbox-display a {
+  color: #0085ba;
 }
 
-.hs-form div.hs_submit .actions {
-  margin: 0 !important;
-  padding: 0 0 0 15px !important;
+.hbspt-form .legal-consent-container .hs-form-booleancheckbox-display a:focus,
+.hbspt-form .legal-consent-container .hs-form-booleancheckbox-display a:active {
+  text-decoration: underline;
 }
 
-.hs-form div.hs_submit .actions input.hs-button {
-  color: #24292e;
-  background-color: #eff3f6;
-  background-image: linear-gradient(-180deg, #fafbfc 0%, #eff3f6 90%);
+.hbspt-form .legal-consent-container .hs-error-msgs {
+  position: absolute;
+  top: auto;
+  bottom: 20px;
+  left: 0;
+  font-size: 13px;
+  padding: 0;
+  list-style: none;
+  display: none;
+}
+
+.legal-consent-container .hs-error-msgs label {
+  color: #f05323 !important;
+}
+
+.hbspt-form .legal-consent-container .hs-error-msgs:last-child {
+  display: block;
+}
+
+.hbspt-form .submitted-message {
   position: relative;
-  display: inline-block;
-  padding: 6px 12px;
-  font-size: 14px;
-  font-weight: 600;
-  line-height: 20px;
-  white-space: nowrap;
-  width: 100%;
-  vertical-align: middle;
+  padding-left: 40px;
+}
+
+.hbspt-form .submitted-message:before {
+  position: absolute;
+  font-family: "Font Awesome Kit";
+  content: "\e000";
+  left: 0;
+  color: #f05323;
+  font-size: 24px;
+}
+
+.hbspt-form .hs-submit .hs-button {
+  border: 1px solid #f05323;
+  border-radius: 10px;
+  background: #f05323;
+  color: #fff;
+  font-weight: bold;
+  line-height: 38px;
+  padding: 0 20px;
   cursor: pointer;
-  user-select: none;
-  background-repeat: repeat-x;
-  background-position: -1px -1px;
-  background-size: 110% 110%;
-  border: 1px solid rgba(27, 31, 35, 0.2);
-  border-radius: 0.25em;
-  appearance: none;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
-  box-shadow: none !important;
-  text-shadow: none !important;
 }
 
-.hs-form div.hs_submit .actions input.hs-button:hover {
-  background-color: #e6ebf1;
-  background-image: linear-gradient(-180deg, #f0f3f6 0%, #e6ebf1 90%);
-  background-position: 0 -0.5em;
-  border-color: rgba(27, 31, 35, 0.35);
+.hbspt-form .hs-form .hs_error_rollup {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: #f05323;
+  font-size: 13px;
+  margin-top: 10px;
 }
 
-/* Form */
+.hbspt-form .hs-form .hs_error_rollup ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Download button on the main page  */
+.plugin-download {
+  display: inline-block;
+  text-align: center;
+  color: #fff;
+  background-color: #f05323;
+  height: 50px;
+  width: auto;
+  padding: 0 20px;
+  line-height: 50px;
+  border-radius: 10px;
+  font-size: 18px;
+  letter-spacing: 1px;
+  border: 1px solid #f05323;
+  transition: all 0.2s ease;
+}
+
+.plugin-download:hover,
+.plugin-download:active {
+  color: #f05323;
+  background-color: #fff;
+}
+

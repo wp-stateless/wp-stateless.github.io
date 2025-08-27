@@ -1,0 +1,107 @@
+/* Addons list  */
+.addon-item .card,
+.addon-item .card-head {
+  flex-grow: 1;
+}
+
+.addon-item .card {
+  padding: 30px;
+}
+
+.addon-item .card h5 a {
+  color: #24292e !important;
+}
+
+.addon-item .card h5 a:hover,
+.addon-item .card h5 a:active {
+  color: #f05323 !important;
+}
+
+.addon-item .addon-img {
+  width: 80px;
+  height: auto;
+}
+
+.addon-item .addon-img img {
+  max-height: 100%;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.addon-item .addon-description ul {
+  padding-left: 20px;
+}
+
+.addon-item .addon-button {
+  color: #232c3b !important;
+}
+
+.addon-sidebar .addon-sidebat-link:hover,
+.addon-sidebar .addon-sidebat-link:active {
+  color: #f05323 !important;
+  text-decoration: underline;
+}
+
+.addon-download {
+  display: inline-block;
+  text-align: center;
+  color: #fff;
+  background-color: #f05323;
+  height: 40px;
+  width: 160px;
+  line-height: 38px;
+  border-radius: 10px;
+  font-weight: 600;
+  border: 1px solid #f05323;
+  transition: all 0.2s ease;
+}
+
+.addon-download:hover,
+.addon-download:active {
+  color: #f05323;
+  background-color: #fff;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .addon-item .card-buttons .hubspot-button {
+    width: 100%;
+  }
+
+  .addon-item .card-buttons .additional-buttons {
+    width: 100%;
+    margin-top: 0.75rem !important;
+    justify-content: center !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .addon-item .icon-wrap {
+    display: flex;
+    justify-content: center;
+  }
+
+  .addon-item h5,
+  .addon-item .addon-description {
+    text-align: center;
+  }
+  
+  .addon-item .card-buttons .hubspot-button {
+    width: 100%;
+  }
+
+  .addon-item .card-buttons .additional-buttons {
+    width: 100%;
+    margin-top: 0.75rem !important;
+    justify-content: center !important;
+  }
+}
+
+/* Addon single page */
+summary {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+summary:hover {
+  color: #f05323;
+}

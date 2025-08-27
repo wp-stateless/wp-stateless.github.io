@@ -14,6 +14,6 @@ permalink: /docs/contributors-and-developers/
 
 ![Maxim Peshkov](https://secure.gravatar.com/avatar/775ad28e82a829212ec8639c7b43e272?s=32&d=mm&r=g) [Maxim Peshkov](https://profiles.wordpress.org/maximpeshkov)
 
-![Anton Korotkoff](https://secure.gravatar.com/avatar/c2569619210fb05501ccf36b31e0b8d3?s=32&d=mm&r=g) [Anton Korotkoff](https://profiles.wordpress.org/anton-korotkoff)
+![Vladimir Palant](https://secure.gravatar.com/avatar/e2572d5bc28ead95c45fc702450720f1?s=32&d=mm&r=g) [Vladimir Palant](https://profiles.wordpress.org/planvova)
 
-![Md. Alimuzzaman Alim](https://secure.gravatar.com/avatar/cd07c79986c4135aeae2bef0fe79e9c3?s=32&d=mm&r=g) [Md. Alimuzzaman Alim](https://profiles.wordpress.org/alimuzzamanalim)
+![Oleksii Bolhunovskyi](https://secure.gravatar.com/avatar/f8d7f8a0eae90fc8fca62cceb8eaa817?s=32&d=mm&r=g) [Oleksii Bolhunovskyi](https://profiles.wordpress.org/obolgun)
